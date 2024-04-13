@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     description: "Intelligent note-taking app, powered by AI.",
     images: [
       {
-        url: "https://www.yoursite.com/og-image.jpg",
+        url: "https://www.syncade.io/og-image.jpg",
         width: 1920,
         height: 1080,
       },
